@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **keerthichakri2148@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CxgU6i03qINaCOflUpfahY4lhpjPzay3/view?usp=sharing](https://drive.google.com/file/d/1CxgU6i03qINaCOflUpfahY4lhpjPzay3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CxgU6i03qINaCOflUpfahY4lhpjPzay3/view?usp=sharing](https://drive.google.com/file/d/1CxgU6iINaCOflUpfahY4lhpjPzay3/view?usp=sharing)
 
 - ⚡ Fun fact **I think I’m funnier than my code is clean 😄**
 
