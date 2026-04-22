@@ -8,7 +8,7 @@
 *Everything ships, gets load tested, and runs in production*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chakri-keerthi16)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=flat&logo=vercel&logoColor=white)](https://ani-chakri-me.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=flat&logo=vercel&logoColor=white)](https://portfolio-8chl.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:keerthichakri2148@gmail.com)
 
 </div>
