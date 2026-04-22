@@ -1,30 +1,85 @@
-<h1 align="center">Hi 👋, I'm Chakri Keerthi</h1>
-<h3 align="center">Full-Stack AI Developer | Passionate about SaaS, EdTech, and AI tools</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [CK Store AI powered E-commerce site](https://github.com/Chakrikeerthi9/E-commmerce)
+# Chakri Keerthi
 
-- 🌱 I’m currently learning **LangChain, RAG, Stripe payment, Vector DB**
+### Full Stack AI Engineer
 
-- 👯 I’m looking to collaborate on [Converso – AI Voice Tutor App](https://github.com/Chakrikeerthi9/sass-app)
+*Production AI systems — LLM gateways, ML pipelines, backend APIs*
+*Everything ships, gets load tested, and runs in production*
 
-- 🤝 I’m looking for help with [ChatWithPDF – AI PDF Q&A tool](https://github.com/Chakrikeerthi9/ChatWithPDF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chakri-keerthi16)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=flat&logo=vercel&logoColor=white)](https://ani-chakri-me.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:keerthichakri2148@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://portfoio-8chl.vercel.app/](https://portfoio-8chl.vercel.app/)
+</div>
 
-- 💬 Ask me about **React, Express.js, LangChain, Flask, Next.js**
+---
 
-- 📫 How to reach me **keerthichakri2148@gmail.com**
+## About
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CxgU6i03qINaCOflUpfahY4lhpjPzay3/view?usp=sharing](https://drive.google.com/file/d/1CxgU6iINaCOflUpfahY4lhpjPzay3/view?usp=sharing)
+Full Stack AI Engineer who ships production AI systems from scratch.
+Built a multi-tenant LLM cost control platform serving **6 live tenants**,
+a credit risk ML system predicting loan defaults with **84% accuracy**,
+and backend systems securing **HIPAA-regulated** patient data.
+Stack:   FastAPI · Next.js · PostgreSQL · Redis · pgvector
+AI/ML:   XGBoost · SHAP · LangChain · OpenAI API · Anthropic API
+Cloud:   AWS · Docker · Render · Git
+Status:  Open to work · OPT · 3 years remaining
 
-- ⚡ Fun fact **I think I’m funnier than my code is clean 😄**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chakri-keerthi-66246633b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chakri-keerthi-66246633b" height="30" width="40" /></a>
-</p>
+## Live Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+| Project | What it does | Key metrics |
+|---------|-------------|-------------|
+| [LLM Gateway](https://github.com/Chakrikeerthi9/llm-gateway) · [Live](https://llm-gateway-zeta.vercel.app) | Multi-tenant AI cost control & security platform | 50% cost cut · 6 tenants · 0 failures |
+| [Credit Risk ML](https://github.com/Chakrikeerthi9/credit-p3) · [Live](https://credit-risk-ml17.streamlit.app) | Loan default prediction with SHAP explainability | 84% accuracy · 307k apps · 0 failures |
+| [TubeIQ](https://github.com/Chakrikeerthi9/TubeIQ) | YouTube semantic search — exact timestamps for any topic | Hours → 20 seconds |
+| [Converso](https://github.com/Chakrikeerthi9/sass-app) | AI voice tutor SaaS with 3 subscription tiers | 99.9% uptime · $0/$15/$35 |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakrikeerthi9&show_icons=true&locale=en" alt="chakrikeerthi9" /></p>
+---
+
+## Experience
+
+**ReplyQuickAI — Backend Developer Intern** · Jan 2026 – Apr 2026
+- Built QR routing system in TypeScript + Next.js — **1,000+ concurrent users**, zero routing errors
+- Validated HMAC security middleware — **zero unauthorized access** across all HIPAA-regulated sessions
+- Built image validation middleware tightening dental AI scan capture rules across all 5 required views
+
+**University of Central Missouri** · M.S. Computer Science · GPA 3.1 · Jan 2024 – Dec 2025
+
+---
+
+## Arsenal
+
+```python
+languages   = ["Python", "TypeScript", "JavaScript", "SQL"]
+
+frameworks  = ["FastAPI", "Next.js", "Node.js",
+               "PostgreSQL", "Redis", "Supabase", "pgvector"]
+
+ai_ml       = ["XGBoost", "SHAP", "LangChain", "LangGraph",
+               "RAG Pipelines", "OpenAI API", "Anthropic API",
+               "PyTorch", "Pandas", "NumPy"]
+
+cloud       = ["AWS", "Docker", "Git", "Sentry",
+               "LangFuse", "Prometheus", "Linux"]
+```
+
+---
+
+## Currently
+→ Building P4: Clinical Trial Intelligence
+LangGraph agents · FHIR mapping · MQTT real-time deviation detection
+→ Open to Full Stack AI, Applied ML, Backend Engineering roles
+→ OPT — 3 years remaining
+→ keerthichakri2148@gmail.com
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chakrikeerthi9&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=FF6B00&icon_color=00D4FF&text_color=ffffff" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakrikeerthi9&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=FF6B00&text_color=ffffff" height="150"/>
+
+</div>
