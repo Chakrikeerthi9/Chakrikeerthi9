@@ -13,7 +13,7 @@
 
 ## About
 
-AI/ML Engineer with 4+ years building and deploying machine learning systems in production across healthcare and financial services.
+AI/ML Engineer - building and deploying machine learning systems in production across healthcare and financial services.
 
 Specialized in end-to-end ML pipelines, MLOps automation, and cloud AI infrastructure on Azure and AWS.
 
