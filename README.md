@@ -1,42 +1,122 @@
 <div align="center">
 
 # Chakri Keerthi
-### AI/ML Engineer
-*Enterprise ML pipelines · MLOps · Cloud AI systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chakrikeerthi16)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:keerthichakri1239@gmail.com)
+### Backend Engineer • AI Infrastructure • LLM Applications
+
+Building scalable backend systems, AI-powered applications, and production-ready developer tools.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chakri886)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:keerthichakri2148@gmail.com)
 
 </div>
 
 ---
 
-## About
+# 👋 About Me
 
-AI/ML Engineer - building and deploying machine learning systems in production across healthcare and financial services.
+Backend Engineer building scalable APIs, distributed systems, and cloud-native applications using **Python, Go, FastAPI, PostgreSQL, Redis, Docker, and AWS**.
 
-Specialized in end-to-end ML pipelines, MLOps automation, and cloud AI infrastructure on Azure and AWS.
+Recently expanded into **AI Engineering**, where I build secure LLM applications, MCP servers, RAG pipelines, and AI-powered healthcare solutions. I enjoy designing reliable backend infrastructure that bridges traditional software engineering with modern AI systems.
+
+### 🌱 Current Interests
+
+- Backend Engineering
+- AI Infrastructure & LLM Applications
+- Computer Vision & Multimodal AI
+- Distributed Systems
+- API Design & System Architecture
+- Cloud Engineering
+- Applied Machine Learning
 
 ---
 
-## Stack
+# ⚡ Tech Stack
 
 ```python
-languages     = ["Python", "SQL", "R", "Scala"]
-ml_frameworks = ["Scikit-learn", "TensorFlow", "PyTorch", "XGBoost",
-                 "MLflow", "Hugging Face", "Keras", "LangChain"]
-cloud         = ["Azure Machine Learning", "Azure Databricks", "Azure Data Factory",
-                 "AWS SageMaker", "AWS Lambda", "Docker", "Kubernetes", "AKS"]
-data          = ["PySpark", "Spark SQL", "Azure Data Lake", "PostgreSQL",
-                 "MongoDB", "ETL/ELT", "Data Modeling"]
-mlops         = ["MLflow", "CI/CD Pipelines", "Model Registry",
-                 "Model Monitoring", "Azure DevOps", "Git", "GitHub"]
-viz           = ["Power BI", "Tableau", "Matplotlib", "Plotly"]
+languages = [
+    "Python",
+    "Go",
+    "TypeScript",
+    "SQL",
+    "Bash"
+]
+
+backend = [
+    "FastAPI",
+    "Node.js",
+    "Next.js",
+    "REST APIs",
+    "Redis"
+]
+
+databases = [
+    "PostgreSQL",
+    "MongoDB",
+    "Supabase"
+]
+
+cloud = [
+    "AWS",
+    "Azure",
+    "Docker",
+    "GitHub Actions",
+    "CI/CD"
+]
+
+ai = [
+    "OpenAI API",
+    "Model Context Protocol (MCP)",
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "FAISS",
+    "Pinecone",
+    "LangFuse"
+]
+
+machine_learning = [
+    "PyTorch",
+    "Scikit-learn",
+    "Hugging Face",
+    "XGBoost"
+]
 ```
 
 ---
 
+# 🚀 Featured Projects
+
+### 🔹 LLM Gateway
+- Built a multi-tenant LLM gateway with semantic caching using **pgvector**, reducing API costs by **50%**.
+- Implemented prompt validation and cosine-similarity detection to improve security across tenant environments.
+
+---
+
+### 🔹 Credit Risk Prediction
+- Built an end-to-end machine learning pipeline for credit risk prediction using **XGBoost** and feature engineering.
+- Improved model performance through preprocessing, feature selection, and hyperparameter optimization.
+
+
+---
+
+# 📈 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chakrikeerthi9&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=FF6B00&icon_color=00D4FF&text_color=ffffff" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakrikeerthi9&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=FF6B00&text_color=ffffff" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chakrikeerthi9&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=FF6B00&icon_color=00D4FF&text_color=ffffff" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakrikeerthi9&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=FF6B00&text_color=ffffff" height="170"/>
+
 </div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on **Backend Engineering**, **AI Infrastructure**, **LLM Applications**, **Computer Vision**, and **Distributed Systems**.
+
+<p align="center">
+<a href="https://linkedin.com/in/chakri886"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:keerthichakri2148@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
